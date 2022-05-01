@@ -1,0 +1,28 @@
+body {
+  background-color: aqua;
+  background-image: url("futsal1.png");
+}
+
+.form-label {
+  color: white;
+  margin-left: 50px;
+}
+h3 {
+  color: white;
+}
+
+.form-control {
+  background-color: #e3f3e1;
+  height: 59px;
+  width: 434px;
+  margin-left: 50px;
+}
+
+.btn {
+  height: 74px;
+  width: 278px;
+  margin-left: 130px;
+  color: black;
+  font-weight: bold;
+  margin-top: 50px;
+}
