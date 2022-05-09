@@ -30,4 +30,5 @@ Cara Instalasi </br>
 2. Pindahkan folder reservasi ke folder htdocs </br>
 3. buat database reservasi </br>
 4. upload database reservasi.sql yang sudah ada di github ini </br>
-5. jalankan url http://localhost/reservasi
+5. jalankan url http://localhost/reservasi </br>
+6. Link Hosting: https://reservasihotelkusuma.000webhostapp.com/
